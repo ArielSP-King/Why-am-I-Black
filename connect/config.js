@@ -4,7 +4,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/Ariel.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['62821203928583','6282118022072']
+global.owner = ['62821203928581','6282118022072']
 global.arielindahsp = ['120363041763043729']
 global.arielsandypermanaindahnc = '6282118022072'
 
